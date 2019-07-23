@@ -1,5 +1,5 @@
 # face-recognition
-Face recognition service created with Python version 3.6.6 using PIL, facial_recognition & dlib libraries
+Face recognition services created with Python version 3.6.6 using PIL, facial_recognition & dlib libraries
 It analyzes images to detect faces wit the Histogram of Oriented Gradients algorithm
 
 ****
